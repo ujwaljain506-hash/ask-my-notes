@@ -1,0 +1,10 @@
+A smart card is a plastic card with a small embedded chip that can store and process data securely.
+The chip is a tiny computer, so a smart card is an embedded system. It has a CPU, ROM, RAM, EEPROM and an I/O interface.
+ROM stores the card's operating system. EEPROM stores user data such as keys and balances, and it keeps the data without power. RAM holds temporary working data.
+A smart card has no battery. The card reader supplies its power and clock signal.
+Contact smart cards have metal pads on the chip and must be inserted into a reader. They follow the ISO/IEC 7816 standard.
+Contactless smart cards have an antenna coil inside. They get power from the reader's radio waves and work when tapped near it. They follow the ISO/IEC 14443 standard.
+Memory cards only store data and have no processor. Microprocessor cards can run programs and do encryption, so they are more secure.
+The card and the reader talk using command and response messages called APDUs.
+Security features include PIN checks, encryption and tamper resistance, which make the stored data hard to copy.
+Common uses are SIM cards, bank cards, ID cards, metro and transit cards, and health cards.

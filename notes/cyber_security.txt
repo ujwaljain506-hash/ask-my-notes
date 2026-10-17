@@ -1,0 +1,14 @@
+Cyber security is the practice of protecting computers, networks, programs and data from attacks, damage and unauthorized access.
+We need to study cyber security because almost everything we do now depends on the internet, such as banking, shopping, education and communication.
+As more data is stored online, attackers have more chances to steal money, personal information and business secrets.
+A security failure can cause financial loss, privacy loss, damage to reputation, and even danger to national security.
+Cybercrime is any illegal activity in which a computer, network or digital device is used as a tool, as a target, or both.
+In India, cybercrimes are mainly handled under the Information Technology Act, 2000.
+Hacking means gaining unauthorized access to a computer system or network.
+Phishing is sending fake emails or messages to trick people into giving passwords, OTPs or bank details.
+Identity theft means stealing someone's personal information to pretend to be them, usually for fraud.
+Malware is harmful software such as viruses, worms and trojans. Ransomware is malware that locks a victim's files and demands money to unlock them.
+A denial of service attack floods a website or server with traffic so that real users cannot use it.
+Cyber stalking and cyber bullying mean harassing or threatening a person repeatedly through the internet or social media.
+Online financial fraud includes credit card fraud, fake online shops and UPI scams.
+Other types of cybercrime include software piracy, data theft, and cyber terrorism, which is using the internet to cause fear or damage to a nation.
